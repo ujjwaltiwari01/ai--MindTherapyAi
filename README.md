@@ -62,14 +62,10 @@
   - Soothing **UI animations** for an immersive experience.  
 
 - **Backend** ⚙️:  
-  - **Botpress** for real-time AI chat functionality.  
+  - **BotpressApi** for real-time AI chat functionality.  
   - Secure and scalable architecture for high availability.  
 
-- **Scripts for Chat Integration**:  
-  ```html
-  <script src="https://cdn.botpress.cloud/webchat/v2.2/inject.js"></script>
-  <script src="https://files.bpcontent.cloud/2025/01/20/13/20250120130618-8TXOZF8B.js"></script>
-  ```  
+
 
 ---
 
